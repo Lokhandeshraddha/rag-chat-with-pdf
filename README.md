@@ -47,3 +47,7 @@ The API key is read from Colab Secrets. It is not stored in the code.
 - How embeddings and vector search find relevant text.
 - Why documents are split into overlapping chunks before searching.
 - How to limit an LLM to the given context so it hallucinates less.
+<img width="1916" height="697" alt="3 " src="https://github.com/user-attachments/assets/a89aac9d-10ed-441d-8a17-834371260d3a" />
+<img width="1912" height="673" alt="2" src="https://github.com/user-attachments/assets/ca34c9a7-27c2-4dec-87fc-3b64883e9cf8" />
+<img width="1912" height="783" alt="01" src="https://github.com/user-attachments/assets/30f18e3c-1465-4e01-8292-c03b419c24ac" />
+
